@@ -1,11 +1,12 @@
-#Olá, meu nome é Marques e seja bem vindo ao meu GitHub. 👋
+# Olá, meu nome é Marques e seja bem vindo ao meu GitHub 👋
+
 
 <!--
 ### Hi there, I'm Marques Yuri de Souza, welcomo to my GitHub!
 
 I has 20 years old and 3 years of experience in IT and the last year focusing in development.
 
-Begins in development with PHP
+Begins in development with PHP, 
 I am currently working at a state hospital. I was hired to provide help desk assistance, but due to my curiosity and some opportunities I had, today I am responsible for the development of Kanbans, Indicator Panels and other systems.
 
 <!--
