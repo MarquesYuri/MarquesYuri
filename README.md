@@ -32,6 +32,4 @@
 > Estou focado em me especializar em NodeJS, ReactJS, e ReactNative, aprender mais sobre automatização de testes e melhorar o inglês também pois fundamental nessa area.
 
 ## Contatos:
-[![LinkedIn Badge](https://img.shields.io/badge/-Marques%20Souza-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marques-souza/)](https://www.linkedin.com/in/marques-souza)
-
-[![Gmail Badge](https://img.shields.io/badge/-my.souz4@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:my.souz4@gmail.com)](mailto:my.souz4@gmail.com)
+[![LinkedIn Badge](https://img.shields.io/badge/-Marques%20Souza-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marques-souza/)](https://www.linkedin.com/in/marques-souza) [![Gmail Badge](https://img.shields.io/badge/-my.souz4@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:my.souz4@gmail.com)](mailto:my.souz4@gmail.com)
