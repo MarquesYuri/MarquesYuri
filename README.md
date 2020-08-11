@@ -1,4 +1,4 @@
-#Olá, meu nome é Marques e seja bem vindo ao meu GitHub. 👋
+#Olá, meu nome é Marques e seja bem vindo ao meu GitHub 👋
 
 <!--
 ### Hi there, I'm Marques Yuri de Souza, welcomo to my GitHub!
@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
