@@ -1,11 +1,14 @@
-# Olá, meu nome é Marques e seja bem vindo ao meu GitHub 👋
+# Olá, bem vindo ao meu GitHub 👋
 
 ## Sobre mim
 
-> Tenho 20 anos de idade, sou mineiro, mas moro no Espirito Santo a mais ou menos 10 anos, trabalho na area de TI a 3 anos, sendo que comecei como estagiário no Corpo de Bombeiros aqui do Estado como Suporte Técnico.
-> Atualmente trabalho no Hospital Estadual de Urgência e Emergência, fui contratado como Suporte Técnico também, porém com o tempo surgiu oportunidade de desenvolver algumas aplicações, já tinha interesse na area de desenvolvimento desde que comecei curso Técnico em 2016, porem tinha pouquíssimo conhecimento mas essa oportunidade no Hospital e com ajuda da equipe pude aproveitar bastante é aprender muita coisa.
-> Comecei com PHP, estrutura era bem básica (XAMPP instalado em um desktop como servidor, PHP, HTML e Bootstrap), e dessa forma foi feita pelo antigo coordenador sistema de controle de entrada na garagem, sistemas de consumo, painéis de indicadores e Kanbans. Após sua saída fiquei responsável pela manutenção dos sistemas e pela criação de novos e aproveitei para tentar melhorar a estrutura.
-> Hoje estamos em processo de migração dos sistemas antigos, trabalhando com Docker, NodeJS, ReactJS, etc... ainda falta muito, mas estou satisfeito com o progresso que tivemos.
+> Tenho 20 anos, trabalho na área de TI a 3, comecei como estagiário no CBMES como Suporte Técnico.
+
+> Atualmente trabalho no Hospital Estadual de Urgência e Emergência, onde também fui contratado como Suporte Técnico, porém, com o tempo surgiu oportunidade de desenvolver algumas aplicações, esse momento, era hora de aproveitar é aprender alguma coisa.
+
+> Comecei com PHP, estrutura bem básica (XAMPP instalado em um Desktop como servidor, PHP, HTML e Bootstrap), e dessa forma foi feita pelo antigo coordenador diversas aplicações como: sistema de controle de entrada na garagem, sistemas de consumo, painéis de indicadores, Kanbans entre outros. Após sua saída, fiquei responsável pela manutenção e atualização dos sistemas e pela criação de novos, aproveitei também para tentar melhorar a estrutura com ajuda dos novos coordenadores que tivemos em seguida.
+
+> Hoje estamos em processo de migração dos sistemas antigos, utilizando Docker, NodeJS, ReactJS, etc. ainda falta muito, mas estou satisfeito com o progresso que tivemos.
 
 ## Conhecimento Basico/Avançado
 * HTML
@@ -31,18 +34,7 @@
 ## Estudos
 > Estou focado em me especializar em NodeJS, ReactJS, e ReactNative, aprender mais sobre automatização de testes e melhorar o inglês também pois fundamental nessa area.
 
-## Contatos
-[![LinkedIn Badge](https://img.shields.io/badge/-Marques%20Souza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marques-souza/)](https://www.linkedin.com/in/marques-souza)
+## Contatos:
+[![LinkedIn Badge](https://img.shields.io/badge/-Marques%20Souza-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marques-souza/)](https://www.linkedin.com/in/marques-souza)
 
-<!--
-
-Here are some ideas to get you started:
-
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-my.souz4@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:my.souz4@gmail.com)](mailto:my.souz4@gmail.com)
