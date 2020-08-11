@@ -32,7 +32,7 @@
 > Estou focado em me especializar em NodeJS, ReactJS, e ReactNative, aprender mais sobre automatização de testes e melhorar o inglês também pois fundamental nessa area.
 
 ## Contatos
-[![LinkedIn Badge](./LinkedIn.png)](https://www.linkedin.com/in/filipelbatista/)
+[![LinkedIn Badge](LinkedIn.png)](https://www.linkedin.com/in/filipelbatista/)
 
 <!--
 
