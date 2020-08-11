@@ -10,6 +10,8 @@
 ## Conhecimento Basico/Avançado
 * PHP
 * Laravel
+* HTML
+* Bootstrap
 
 
 <!--
