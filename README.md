@@ -3,7 +3,7 @@
 ## Sobre mim
 
 > Tenho 20 anos e trabalho na área de TI a 3 anos. Comecei como estagiário no CBMES como Suporte Técnico.  
-Atualmente, trabalho no Hospital Estadual de Urgência e Emergência, onde também fui contratado como Suporte Técnico, porém, com o tempo, surgiu a oportunidade de desenvolver algumas aplicações, momento perfeito para aprender o máximo possível.  
+  Atualmente, trabalho no Hospital Estadual de Urgência e Emergência, onde também fui contratado como Suporte Técnico, porém, com o tempo, surgiu a oportunidade de desenvolver algumas aplicações, momento perfeito para aprender o máximo possível.  
 > Comecei com PHP, estrutura bem básica (XAMPP instalado em um Desktop como servidor, PHP, HTML e Bootstrap), e dessa forma foi feita pelo antigo coordenador diversas aplicações como: sistema de controle de entrada na garagem, sistemas de consumo, painéis de indicadores, Kanbans entre outros. Após sua saída, fiquei responsável pela manutenção, atualização e pela criação de novos sistemas, aproveitei também para tentar melhorar a estrutura com ajuda dos novos coordenadores que tivemos em seguida.  
 > Hoje estamos em processo de migração dos sistemas antigos, trabalhando com Docker, NodeJS, ReactJS, etc. Ainda falta muito, mas, estou satisfeito com o progresso que tivemos!
 
