@@ -19,6 +19,8 @@ My name is Marques, I'm 21 years old. I have been working with IT for 3 years. I
   * Laravel
   * Bootstrap
   * JQuery
+  * TypeScript
+  * TypeORM
 
 * Databases
   * MySQL/MariaDB
@@ -39,14 +41,10 @@ My name is Marques, I'm 21 years old. I have been working with IT for 3 years. I
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MarquesYuri&hide=Shell&layout=compact)](https://github.com/MarquesYuri/github-readme-stats)
 
-## Contacts:
-[![LinkedIn Badge](https://img.shields.io/badge/-Marques%20Souza-blue?style=square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marques-souza/)](https://www.linkedin.com/in/marques-souza) [![Gmail Badge](https://img.shields.io/badge/-my.souz4@gmail.com-c14438?style=square&logo=Gmail&logoColor=white&link=mailto:my.souz4@gmail.com)](mailto:my.souz4@gmail.com)
+## Contacts
 
-
-
-
-
-| ![]('./assets/Marques.png') |
+|   ![](/assets/Marques.png)  |
 | :-------------------------: |
 |      **Marques Souza**      |
+| [![](/assets/Instagram.png)](https://www.instagram.com/my_souz4/) &nbsp; [![](/assets/LinkedIn.png)](https://www.linkedin.com/in/marques-souza) &nbsp; [![](/assets/RocketSeat.png)](https://app.rocketseat.com.br/me/marques-yuri) &nbsp; [![](/assets/Gmail.png)](mailto:my.souz4@gmail.com) |
 
